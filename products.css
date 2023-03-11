@@ -1,0 +1,10 @@
+.navbar-brand{
+    font-family:' Riona Sans Bold Italic';
+    font-weight: bold;
+}
+.nav-item{
+    padding-left: 20px;
+}
+#cart{
+    width: 50px;
+}
